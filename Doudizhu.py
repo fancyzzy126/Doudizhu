@@ -1,8 +1,11 @@
 #!/usr/bin/python
+#author:tarzonz
 import random
 import itertools
 import sys
 import copy
+
+
 
 
 
